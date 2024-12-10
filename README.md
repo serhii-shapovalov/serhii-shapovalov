@@ -1,15 +1,16 @@
-👋 Hi, I'm Serhii - Senior Software Engineer with over 7 years of experience and specialize in creating cutting-edge AI-driven web apps, custom automation tools, and MVPs that deliver real business value.
+# 👋 Hi, I'm Serhii
+Senior Software Engineer with over 7 years of experience and specialize in creating cutting-edge AI-driven web apps, custom automation tools, and MVPs that deliver real business value.
 Currently, I hone my skills in both frontend and backend technologies, including Next.js, Vue.js, Laravel, AI Chatbots, and Stripe integrations.
 
 ✅ I pride myself on delivering high-quality code, fast execution, and clear communication.
 🚀 Whether you're a startup or a Fortune 500 company, I help you turn your ideas into reality, making your app both functional and market-ready in record time.
 
-🔧 What I Can Help You With:
+## 🔧 What I Can Help You With:
 🚀 MVPs & Fast Market Entry: Get your app to market quickly and start monetizing it immediately.
 🚀 Custom Automations: Save 100s of hours by automating repetitive tasks with custom AI-powered solutions.
 🚀 AI Chatbots: Build AI-driven chatbots with custom knowledge bases to enhance user engagement and support.
 
-💻 My Technical Expertise:
+## 💻 My Technical Expertise:
 ✅ Frontend:
 - Next.js, React, Vue.js, Angular, SvelteKit
 - JavaScript/TypeScript, CSS, Tailwind CSS, Bootstrap
@@ -38,10 +39,16 @@ Currently, I hone my skills in both frontend and backend technologies, including
 - Mentored junior developers, increasing their proficiency in Vue.js by 50%.
 - Implemented secure authentication and authorization for healthcare web applications.
 
-🌍 Let’s Make It Happen! Working with me, you’ll get:
+## Github Status
+<div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=serhii-shapovalov&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=serhii-shapovalov&layout=compact" width="42%"/>
+</div>
+
+## 🌍 Let's Make It Happen! Working with me, you'll get!
 - Daily progress updates
 - 24/7 access via personal email/phone
 - Money-back guarantee if I don't deliver your desired results
 
-🤝 Let's work together to build your dream product!
+## 🤝 Let's work together to build your dream product!
 Whether you need a custom AI solution, a full-stack web app, or a fast MVP, I'm here to make it happen.
